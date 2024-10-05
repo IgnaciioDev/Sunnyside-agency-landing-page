@@ -37,7 +37,6 @@ Users should be able to:
 
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 - CSS custom properties
 - Flexbox
@@ -46,9 +45,11 @@ Users should be able to:
 
 ### What I learned :
 
-- Improved my skills in building responsive layouts with CSS Grid and Flexbox.
-- Gained a better understanding of HTML semantics and accessibility practices.
-- Enhanced my JavaScript knowledge by implementing interactive elements.
+This was one of my projects completed as a Frontend Mentor challenge, using HTML and CSS, so I already had some previous experience. However, I continued to learn a lot while working on this page, from refining my CSS skills to ensuring that the design was responsive and visually appealing.
+
+Throughout the project, I faced some challenges, especially when implementing hover states for the interactive elements. Through practice, I managed to handle these states effectively, which significantly improved the user experience.
+
+It was also rewarding to work on responsive design, ensuring that the page adapted perfectly to different screen sizes. Seeing how everything fit together in the end was very satisfying. This process has been enriching, and I am excited to keep learning in future projects.
 
 ## Author
 
