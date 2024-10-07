@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=0ABF53&style=for-the-badge)](https://ignaciiodev.github.io/Calculator-Design/)
-[![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=0ABF53&style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgnaciioDev/Calculator-Design)
+[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=0ABF53&style=for-the-badge)]([https://ignaciiodev.github.io/Calculator-Design/](https://ignaciiodev.github.io/Sunnyside-agency-landing-page/))
+[![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=0ABF53&style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgnaciioDev/Sunnyside-agency-landing-page)
 
 ## My process
 
